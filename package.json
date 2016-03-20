@@ -1,0 +1,29 @@
+{
+  "name": "less2styl",
+  "version": "1.0.0",
+  "description": "Convert LESS to Stylus",
+  "main": "index.js",
+  "dependencies": {
+    "css2stylus": "^0.4.0",
+    "less": "^1.4.2"
+  },
+  "bin": {
+    "less2styl": "less2styl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/demsking/less2styl.git"
+  },
+  "homepage": "https://github.com/demsking/less2styl",
+  "keywords": [
+    "less",
+    "stylus",
+    "converter",
+    "transform"
+  ],
+  "author": {
+    "name": "Sébastien Demanou",
+    "email": "demsking@gmail.com"
+  },
+  "license": "MIT"
+}
