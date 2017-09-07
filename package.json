@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "css2stylus": "^0.4.0",
-    "less": "^1.4.2"
+    "less": "^2.1.0"
   },
   "bin": {
     "less2styl": "less2styl"
