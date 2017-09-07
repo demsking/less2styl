@@ -1,6 +1,6 @@
 {
   "name": "less2styl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert LESS to Stylus",
   "main": "index.js",
   "dependencies": {
